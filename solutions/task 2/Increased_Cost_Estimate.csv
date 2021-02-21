@@ -1,0 +1,13 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+Giancarlo_Romeo_Increased_Cost_Estimate,EU (Frankfurt),,Amazon EC2,0,3358.43,40301.16,USD,"Operating system (Linux), Quantity (6), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (2 TB), Provisioning IOPS (1000), Instance type (t3.2xlarge)"
+Giancarlo_Romeo_Increased_Cost_Estimate,EU (Frankfurt),,Amazon Virtual Private Cloud (VPC),0,91.21,1094.52,USD,Number of NAT Gateways (1)
+Giancarlo_Romeo_Increased_Cost_Estimate,EU (Frankfurt),,Application Load Balancer,0,80.38,964.56,USD,Number of Application Load Balancers (2)
+Giancarlo_Romeo_Increased_Cost_Estimate,EU (Frankfurt),,Amazon RDS for MySQL,0,5526.910000000001,66322.92,USD,"Quantity (2), Pricing strategy (Standard Reserved Instances 1 Year No UpFront), Storage for each RDS instance (Provisioned IOPS SSD (io1)), Storage amount (1 TB), Additional backup storage (10 TB), Provisioning IOPS (1000)"
+Giancarlo_Romeo_Increased_Cost_Estimate,EU (Frankfurt),,Amazon EC2,0,8724.369999999999,104692.44,USD,"Operating system (Linux), Quantity (6), Pricing strategy (EC2 Instance Savings Plans 1 Year No UpFront), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (2 TB), Provisioning IOPS (1000), Instance type (c5.12xlarge)"
+Giancarlo_Romeo_Increased_Cost_Estimate,EU (Frankfurt),,S3 Standard,0,250.88,3010.56,USD,S3 Standard storage (10 TB per month)
+Giancarlo_Romeo_Increased_Cost_Estimate,EU (Frankfurt),,Data Transfer,0,0,0.00,USD,"DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
